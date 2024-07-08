@@ -16,8 +16,9 @@ Our solution empowers you to build semantic solutions that can:
 
 ### RAG worklow for Semantic Conversation
 
-![](static/images/RAG_workflow.png)
+![image](https://github.com/Lekha-PRIYA-BHAN/Semantic_conversations/assets/167432155/d4ba4ff0-e9e0-46ae-8b41-4e66bee774cb)
+
 
 ### Application flow
 
-![](static/images/swimlanes.png)
+![image](https://github.com/Lekha-PRIYA-BHAN/Semantic_conversations/assets/167432155/c98a790c-2c23-4786-9dea-24afaf2a4e57)
