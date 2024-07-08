@@ -1,0 +1,41 @@
+# Django system files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Database files
+db.sqlite3
+*.sqlite3
+
+# Secret key
+*.secret_key
+
+# Media files
+media/
+
+# Log files
+*.log
+
+# Compiled Python files
+*.pyc
+
+# Ignore the virtual environment directory
+venv/
+
+# Ignore settings files that may contain sensitive information
+settings_local.py
+
+# Ignore local development files
+*.local
+
+# Ignore coverage reports
+htmlcov/
+
+# Ignore migrations
+**/migrations/
+
+# User-specific PyCharm files
+.idea/
+
+.DS_Store
